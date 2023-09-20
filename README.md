@@ -1,5 +1,6 @@
 # Rocket-Elevators-Golang-Controller
-### Classes are created in seprate go files. Each file contains the class constructors (instance variables and class functions if there are any)
+
+-Classes are created in seprate go files. Each file contains the class constructors (instance variables and class functions if there are any)
 
 -Controller is going to go through each column (battery class) and pass the requested floor in the chosen columns list 
 
@@ -13,7 +14,7 @@
 
 
 
-### Test runs
+## Test runs
 
 Screen shot showing that all the scenraio tests were passed [https://github.com/yasmi66/Rocket-Elevators-Golang-Controller/blob/main/READMEPIC-go-testruns.png]
 
